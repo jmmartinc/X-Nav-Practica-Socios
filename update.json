@@ -1,0 +1,15 @@
+{
+    "update":[
+        {"user": "juansg",
+        "avatar": "css/images/psycho-avatar.jpg",
+        "date": "18 mar 2015, 19:55",
+        "title": "Reunión cancelada",
+        "msg": "Os aviso de que se ha cancelado la reunión del Lunes. Sigue en pie la del Miércoles."},
+
+        {"user": "mikel86",
+        "avatar": "css/images/default-avatar.gif",
+        "date": "19 mar 2015, 10:03",
+        "title": "Gracias",
+        "msg": "Gracias por avisar."}
+    ]
+}

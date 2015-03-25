@@ -1,0 +1,15 @@
+{
+    "myline":[
+        {"user": "jmmartin",
+        "avatar": "css/images/jmmartin-avatar.png",
+        "date": "17 mar 2015, 17:35",
+        "title": "Prueba",
+        "msg": "Esto es un mensaje de prueba"},
+
+        {"user": "jmmartin",
+        "avatar": "css/images/jmmartin-avatar.png",
+        "date": "17 mar 2015, 17:38",
+        "title": "Prueba 2",
+        "msg": "Esto es otro mensaje de prueba"}
+    ]
+}
