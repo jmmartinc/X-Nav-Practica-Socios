@@ -1,25 +1,25 @@
 {
     "timeline":[
         {"user": "juansg",
-        "avatar": "/css/images/psycho-avatar.jpg",
+        "avatar": "css/images/psycho-avatar.jpg",
         "date": "16 mar 2015, 12:35",
         "title": "Bienvenida",
         "msg": "Os doy la bienvenida a la red social Socios!"},
 
         {"user": "mikel86",
-        "avatar": "/css/images/default-avatar.gif",
+        "avatar": "css/images/default-avatar.gif",
         "date": "17 mar 2015, 10:28",
         "title": "Encantado",
         "msg": "Estoy encantado de poder saludaros a todos."},
 
         {"user": "juansg",
-        "avatar": "/css/images/psycho-avatar.jpg",
+        "avatar": "css/images/psycho-avatar.jpg",
         "date": "17 mar 2015, 11:32",
         "title": "Re: Encantado",
         "msg": "Hola! Te has enterado de la reunión del lunes?"},
 
         {"user": "mikel86",
-        "avatar": "/css/images/default-avatar.gif",
+        "avatar": "css/images/default-avatar.gif",
         "date": "17 mar 2015, 12:53",
         "title": "Reunión",
         "msg": "Sí, claro. Allí nos vemos ;)"}
